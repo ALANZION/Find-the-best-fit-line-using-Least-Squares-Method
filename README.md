@@ -24,6 +24,7 @@ Developed by:
 RegisterNumber:  
 */
 ```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 X = np.array(eval(input()))
@@ -43,10 +44,13 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
+```
+
 ## Output:
 ![best fit line](sam.png)
 
-![Screenshot (56)](https://github.com/ALANZION/Find-the-best-fit-line-using-Least-Squares-Method/assets/145743064/8acc5722-fe9b-41d8-86a0-5072903a3fc3)
+![Screenshot 2024-02-16 080524](https://github.com/ALANZION/Find-the-best-fit-line-using-Least-Squares-Method/assets/145743064/5a4fb355-cfcf-4638-8dd9-9cdb36323d21)
+
 
 
 ## Result:
