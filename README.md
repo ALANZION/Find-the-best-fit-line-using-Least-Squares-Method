@@ -20,8 +20,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by: ALAN ZION H
+RegisterNumber:  212223240004
 */
 ```
 ```
@@ -49,7 +49,7 @@ plt.show()
 ## Output:
 ![best fit line](sam.png)
 
-![Screenshot 2024-02-16 080524](https://github.com/ALANZION/Find-the-best-fit-line-using-Least-Squares-Method/assets/145743064/5a4fb355-cfcf-4638-8dd9-9cdb36323d21)
+![image](https://github.com/ALANZION/Find-the-best-fit-line-using-Least-Squares-Method/assets/145743064/a4fbf173-65b4-4ab5-a2a7-81cc6a4f21c0)
 
 
 
